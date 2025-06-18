@@ -11,14 +11,13 @@
 - Outside tech, 📖 I love to read , 🥊 train martial arts, 🎵 listen to music, and 🌴 explore nature outdoors.
 </pre>
 <hr>
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvvaro12-hash" alt="GitHub Stats" /> <br/><br/>
-  
-</div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=alvvaro12-hash&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvvaro12-hash&layout=compact)
+
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=alvvaro12_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/alvvaro12)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=alvvaro128&theme=material-palenight)](https://github.com/alvvaro12)
+</div>
 
 ---------------------------------------------------------------------------------------------------------------------
 Date: 18/06/2025
