@@ -8,6 +8,7 @@
 📚 Just getting started — currently studying for the CCNA and learning Python  
 🔧 Looking for projects to gain real-world experience  
 🌍 English B2 | French (in progress) | Native Spanish 
-
+- Outside tech, 📖 I love to read , 🥊 train martial arts, 🎵 listen to music, and 🌴 explore nature outdoors.
 </pre>
 <hr>
+Date: 18/06/2025
